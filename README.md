@@ -13,20 +13,14 @@ Sign in with GitHub account
 
 ### On the Travis Website
 
-<br>
-> Add To Repo
-<br>
+#### Add To Repo
 ![Add Repo](README_Images/02_add_repo.png)
 
-<br>
-> Add To Travis
-<br>
+#### Add To Travis
 ![Add To Travis](README_Images/03_add_to_travis.png)
 
-<br>
-> Sync Account
-<br>
+#### Sync Account
 ![Sync Account](README_Images/04_sync_account.png)
 
-<br>
-This should start building the project automatically, or you can trigger a build
+<br/>
+This should start building the project automatically, or you can trigger a build, or you can make a change and push it to the GitHub repo
